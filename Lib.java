@@ -1,6 +1,6 @@
 /**
  *
- * @author ???
+ * @author Alejo Garcia Galan
  */
 
 public class Lib {
